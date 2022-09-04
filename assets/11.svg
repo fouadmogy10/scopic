@@ -1,0 +1,21 @@
+<svg width="38" height="64" viewBox="0 0 38 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Path85FA16BB-DA30-41C1-81D9-A741CFE19CCD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.7872673%" y1="-102.40162%" x2="62.2299798%" y2="197.005208%" id="linearGradient-1" vector-effect="non-scaling-stroke">
+            <stop stop-color="#0A2269" offset="0%" vector-effect="non-scaling-stroke"/>
+            <stop stop-color="#023BDB" offset="100%" vector-effect="non-scaling-stroke"/>
+            <stop stop-color="#0136D9" offset="100%" vector-effect="non-scaling-stroke"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-Development" transform="translate(-781.000000, -3496.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-31" transform="translate(617.000000, 3496.000000)">
+                <g id="renewable-energy" transform="translate(164.000000, 0.000000)">
+                    <polygon id="Path" points="38 26.8211353 20.6641113 26.8211353 23.2513992 0 0 37.6456482 17.1847613 37.6456482 14.1564002 64" vector-effect="non-scaling-stroke"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

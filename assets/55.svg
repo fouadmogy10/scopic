@@ -1,0 +1,20 @@
+<svg width="20.7193893" height="44.9998571" viewBox="0 0 20.7193893 44.9998571" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>ShapeECC367C4-9C9F-4CED-9726-B99690429987</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="42.8545691%" y1="4.89425254%" x2="59.9186796%" y2="94.929518%" id="linearGradient-1" vector-effect="non-scaling-stroke">
+            <stop stop-color="#009EE3" offset="0%" vector-effect="non-scaling-stroke"/>
+            <stop stop-color="#2246B6" offset="100%" vector-effect="non-scaling-stroke"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web-Development" transform="translate(-386.140376, -3496.000143)" fill="url(#linearGradient-1)">
+            <g id="Group-31-Copy-4" transform="translate(213.000000, 3496.000000)">
+                <g id="facebook" transform="translate(173.000000, 0.000000)">
+                    <path d="M20.8597651,7.88814286 L15.8472483,7.88814286 C14.8544698,7.88814286 13.8525302,8.92814286 13.8525302,9.70185714 L13.8525302,14.8824286 L20.8497584,14.8824286 C20.5680201,18.8548571 19.989604,22.4874286 19.989604,22.4874286 L13.8167315,22.4874286 L13.8167315,45 L4.61816779,45 L4.61816779,22.485 L0.140375839,22.485 L0.140375839,14.9094286 L4.61816779,14.9094286 L4.61816779,8.71571429 C4.61816779,7.58314286 4.39181879,0.000142857143 14.0430805,0.000142857143 L20.8597651,0.000142857143 L20.8597651,7.88814286 L20.8597651,7.88814286 Z" id="Shape" vector-effect="non-scaling-stroke"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
